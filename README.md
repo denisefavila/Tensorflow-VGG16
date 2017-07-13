@@ -10,19 +10,25 @@ Implement VGG16 by Tensorflow using the pre-trained model from [MatConvNet](http
 ## Test on the pre-trained model
 
 ```
-$ python test_vgg16.py
+$ python vgg16.py
 ```
 
 ## Result
 
 ```
 Classification Result:
-        Category Name: Aamir_Khan
-        Propbability: 51.60%
-        
-        Category Name: Adam_Driver
-        Propbability: 6.78%
-        
-        Category Name: Manish_Dayal
-        Propbability: 1.95%
+        Category Name: [u'weasel']
+        Probability: 82.63%
+
+        Category Name: [u'polecat, fitch, foulmart, foumart, Mustela putorius']
+        Probability: 10.86%
+
+        Category Name: [u'mink']
+        Probability: 5.95%
+
+        Category Name: [u'black-footed ferret, ferret, Mustela nigripes']
+        Probability: 0.55%
+
+        Category Name: [u'mongoose']
+        Probability: 0.01%
 ```
