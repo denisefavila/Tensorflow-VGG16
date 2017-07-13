@@ -5,7 +5,7 @@ Implement VGG16 by Tensorflow using the pre-trained model from [MatConvNet](http
 * Python 2.7
 * Scipy
 * Tensorflow
-* Pre-trained model [vgg-face.mat](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-16.mat) (MD5: f72d927587ca4c97fbd165ec9cb9997f)
+* Pre-trained model [imagenet-vgg-verydeep-16.mat](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-16.mat) (MD5: f72d927587ca4c97fbd165ec9cb9997f)
 
 ## Test on the pre-trained model
 
